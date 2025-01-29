@@ -21,3 +21,6 @@ Whenever you want to run the server, just open a terminal in the server folder, 
 
 NOTE(S)
 i do not plan to make a version for macOS because i do not have a mac to test this on. if any of you want a mac version, do it yourself. it is pretty easy. just modify the windows batch file to run on macos and download the mac version of 7zip
+
+
+This downloads and installs TShock 5.2.1 for Terraria 1.4.4.9   if you want me to update it to use newer versions and i have not already, submit an issue saying to update it.
