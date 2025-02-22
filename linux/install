@@ -1,3 +1,6 @@
+cd 7zip
+chmod +x *
+cd ..
 curl -L -o ./tshock.zip "https://github.com/Pryaxis/TShock/releases/download/v5.2.1/TShock-5.2.1-for-Terraria-1.4.4.9-linux-amd64-Release.zip"
 cd ./7zip
 ./7zzs -y -o.. e ../tshock.zip
