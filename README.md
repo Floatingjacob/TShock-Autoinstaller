@@ -9,7 +9,7 @@ Windows
 4. Voilà, now you have the TShock server installed for windows.
 Whenever you want to run the server, just open 'TShock.Server.exe' and you should have a terminal window open with the server.
 
-Linux (tested on kali-linux which is a form of debian)
+Linux (tested on kali-linux and Debian 12)
 1. download and extract the linux release into an empty folder.
 2. open up a terminal and navigate to the folder with the installer.
 3. execute "./install" without the quotes.
