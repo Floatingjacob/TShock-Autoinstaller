@@ -11,11 +11,11 @@ Whenever you want to run the server, just open 'TShock.Server.exe' and you shoul
 
 Linux (tested on kali-linux and Debian 12)
 1. download and extract the linux release into an empty folder.
-2. open up a terminal and navigate to the folder with the installer.
+2. open up a terminal and navigate to the folder you just extracted.
 3. execute "./install" without the quotes.
 4. after the terminal asks for a world, do CTRL+C to exit the server.
 5. execute "./postinstall" without the quotes
-6. Voilà now you have the TShpck server installed for linux.
+6. Voilà now you have the TShock server installed for linux.
 Whenever you want to run the server, just open a terminal in the server folder, and type "./TShock.Serever" without the quotes
 
 
